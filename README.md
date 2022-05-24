@@ -8,3 +8,5 @@ Adalto dos Reis
 João Pedro
 
 Laryssa Vitoria Francelino de Souza
+
+Leonardo Regonini

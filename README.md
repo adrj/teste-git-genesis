@@ -1,4 +1,4 @@
-# teste-git-genesis
+# teste HTML  e CSS
 Teste do uso do GIT
 
 TESTE DA CRIAÇÃO DE REPOSITÓRIOS
